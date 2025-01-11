@@ -1,0 +1,18 @@
+/* Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+/*s1 start*/
+.s1-form p {
+    margin-right: 100px;
+}
+/*s3 start*/
+.s3_top {
+    right: 70px;
+}
+.row1_h1 {
+    margin-bottom: 50px;
+}
+
+
+
+} 

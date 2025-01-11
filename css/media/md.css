@@ -1,0 +1,145 @@
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.c_pad{
+	padding-bottom: 80px; 
+}
+/*header start*/
+.nav_h{
+	position: relative;
+	overflow: hidden;
+}
+.nav_left ul li:first-child{
+    margin-top: 10px;
+}
+.nav_left{
+	margin-top: -7px;
+}
+.nav_left li{
+	position: absolute; 
+	right: 0;
+/*	bottom: 0;*/
+}
+.nav_left li:last-child {
+    margin-right: 0;
+}
+.nav_left li a i {
+    left: -42px;
+}
+.left_li1{
+	top: 38px;
+}
+.left_li2{
+	top: 75px;
+}
+.left_li3{
+	top: 110px;
+}
+.btn_h{
+	width: 140px;
+    height: 40px;
+	position: absolute; 
+	right: 0;
+	top: 160px;
+}
+/*s1 start*/
+.s1-form h1 {
+    margin-top: 50px;
+    margin-right: 0px;
+    font-size: 36px;
+}
+.s1-form p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.s1-form form input {
+    width: 290px;
+    height: 40px;
+}
+.btn_s1 {
+    width: 290px;
+    height: 40px;
+}
+.s1_p2 {
+    margin-bottom: 15px !important;
+}
+.s1-banner {
+    margin-top: 110px;
+}
+/*s3 start*/
+.s3_row1 {
+    margin: 0 120px;
+}
+.row1_h1 {
+    font-size: 36px;
+}
+.s3_top {
+    right: 0px;
+}
+.s3_h2 {
+    font-size: 26px;
+}
+.row2_item p {
+    margin: 15px 0px 0;
+}
+.s3_button {
+    margin-top: 0px;
+}
+/*s4 start*/
+.s4_item {
+    margin: 0px 80px 0px;
+    text-align: center;
+}
+.s4_item h1 {
+    margin: 0 70px 0;
+    font-size: 36px;
+}
+.s4_item p {
+    margin: 16px 0 30px;
+}
+/*s5 staart*/
+.s5_box {
+    position: absolute;
+    right: 6%;
+    top: 32%;
+}
+.s5_box h1 {
+    font-size: 23px;
+    line-height: 28px;
+}
+.s5_box p {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.btn_s3 {
+    width: 130px;
+    height: 36px;
+}
+/*s6 start*/
+.c_h1 {
+    font-size: 37px;
+}
+.n_btn {
+    padding: 6px 10px;
+}
+.nav_con1 {
+    margin-top: 50px;
+    margin-right: 0px;
+}
+.nav_con2 {
+    margin: 20px 50px 0;
+}
+/*s7 start*/
+.s7 {
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+.s7_r1 h1 {
+    margin: 0 140px 15px;
+    font-size: 37px;
+}
+.s7_r2 {
+    margin: 50px 0;
+}
+
+}

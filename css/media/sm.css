@@ -1,0 +1,137 @@
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+.c_pad{
+	padding-bottom: 60px; 
+}
+/*header start*/
+.nav_h{
+	position: relative;
+	overflow: hidden;
+}
+.nav_left{
+	margin-top: -7px;
+}
+.btn_h{
+	width: 140px;
+    height: 40px;
+	position: absolute; 
+	right: 0;
+	top: 280px;
+}
+.left_li1 {
+    margin-left: 33px;
+}
+.left_li1 a i {
+    left: -43px;
+}
+/*s1 start*/
+.s1-form{
+	text-align: center;
+}
+.s1-form h1 {
+    margin-top: 40px;
+    margin-right: 0px;
+    font-size: 33px;
+}
+.s1-form p {
+    margin: 10px 40px 20px;
+}
+.s1-form form input {
+    width: 290px;
+    height: 40px;
+}
+.btn_s1 {
+    width: 290px;
+    height: 40px;
+}
+.s1_p2 {
+	margin-top: 10px !important;
+    margin-bottom: 20px !important;
+}
+.s1-banner {
+    margin-top: 50px;
+}
+/*s3 start*/
+.s3_row1 {
+    margin: 0 40px;
+}
+.row1_h1 {
+    font-size: 33px;
+}
+.s3_top {
+    right: 0px;
+}
+.s3_h2 {
+    font-size: 26px;
+}
+.row2_item {
+    margin-bottom: 30px;
+}
+.row2_item p {
+    margin: 10px 0px 0;
+}
+.s3_button {
+    margin-top: 0px;
+}
+.btn_s3 {
+    width: 140px;
+    height: 40px;
+}
+/*s4 start*/
+.s4_item {
+    margin: 0px 40px 0px;
+    text-align: center;
+}
+.s4_item h1 {
+    margin: 0 40px 0;
+    font-size: 33px;
+}
+.s4_item p {
+    margin: 16px 0 20px;
+}
+/*s5 start*/
+.s5_img {
+    padding-bottom: 160px;
+}
+.s5_box {
+    right: 12%;
+    top: 62%;
+}
+.s5_box h1 {
+    font-size: 28px;
+}
+/*s6 start*/
+.c_h1 {
+    font-size: 33px;
+}
+.n_btn {
+    padding: 6px 10px;
+}
+.nav_con1 {
+    margin-top: 50px;
+    margin-right: 0px;
+}
+.nav_con2 {
+    margin: 20px 30px 0;
+}
+/*s7 start*/
+.s7 {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.s7_r1 h1 {
+    margin: 0 70px 7px;
+    font-size: 33px;
+}
+.s7_r1 p {
+    font-size: 16px;
+}
+.s7_r2 {
+    margin: 40px 0;
+}
+.s7_r2 p {
+    margin-top: 10px;
+}
+
+}
